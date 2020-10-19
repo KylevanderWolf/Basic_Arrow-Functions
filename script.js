@@ -16,7 +16,7 @@ console.log(myFunction(2, 5));
 const addFive = (a) => (a + 5)
 console.log(addFive(20));
 
-//Deel C:
+//Deel E:
 const createObject = () => ({ greeting: "hoi" })
 console.log(createObject());
 
